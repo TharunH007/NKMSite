@@ -1,0 +1,169 @@
+# Exported by three-d-stage
+newmtl floor_wood
+Kd 0.4851 0.2747 0.1119
+Ks 0.2000 0.2000 0.2000
+Ns 50
+d 1.0000
+
+newmtl floor_seam
+Kd 0.3095 0.1590 0.0545
+Ks 0.2000 0.2000 0.2000
+Ns 50
+d 1.0000
+
+newmtl wall_upper
+Kd 0.8963 0.7991 0.6514
+Ks 0.2000 0.2000 0.2000
+Ns 16
+d 1.0000
+
+newmtl wainscot
+Kd 0.6939 0.5089 0.2747
+Ks 0.2000 0.2000 0.2000
+Ns 30
+d 1.0000
+
+newmtl trim_wood
+Kd 0.1470 0.0630 0.0194
+Ks 0.2000 0.2000 0.2000
+Ns 80
+d 1.0000
+
+newmtl trim_paint
+Kd 0.9301 0.8796 0.7454
+Ks 0.2000 0.2000 0.2000
+Ns 60
+d 1.0000
+
+newmtl window_glass
+Kd 0.6240 0.7454 0.6867
+Ks 0.2000 0.2000 0.2000
+Ns 170
+d 0.5000
+
+newmtl curtain_fabric
+Kd 0.2542 0.3325 0.1590
+Ks 0.2000 0.2000 0.2000
+Ns 40
+d 1.0000
+
+newmtl wood
+Kd 0.2542 0.1022 0.0343
+Ks 0.2000 0.2000 0.2000
+Ns 80
+d 1.0000
+
+newmtl art_canvas
+Kd 0.7758 0.6939 0.5395
+Ks 0.2000 0.2000 0.2000
+Ns 20
+d 1.0000
+
+newmtl nightstand_wood
+Kd 0.1070 0.0612 0.0319
+Ks 0.2000 0.2000 0.2000
+Ns 90
+d 1.0000
+
+newmtl plant_pot
+Kd 0.5647 0.1651 0.0409
+Ks 0.2000 0.2000 0.2000
+Ns 50
+d 1.0000
+
+newmtl lamp_shade
+Kd 0.9301 0.8796 0.7454
+Ks 0.2000 0.2000 0.2000
+Ns 60
+d 1.0000
+
+newmtl foliage
+Kd 0.1590 0.2159 0.0976
+Ks 0.2000 0.2000 0.2000
+Ns 30
+d 1.0000
+
+newmtl foliage_dark
+Kd 0.0931 0.1441 0.0578
+Ks 0.2000 0.2000 0.2000
+Ns 30
+d 1.0000
+
+newmtl rug_border
+Kd 0.5271 0.1441 0.0343
+Ks 0.2000 0.2000 0.2000
+Ns 30
+d 1.0000
+
+newmtl rug_fill
+Kd 0.1946 0.2542 0.1119
+Ks 0.2000 0.2000 0.2000
+Ns 30
+d 1.0000
+
+newmtl headboard_upholstery
+Kd 0.5906 0.4793 0.3231
+Ks 0.2000 0.2000 0.2000
+Ns 50
+d 1.0000
+
+newmtl tuft_button
+Kd 0.1144 0.0685 0.0343
+Ks 0.2000 0.2000 0.2000
+Ns 80
+d 1.0000
+
+newmtl mat_fabric
+Kd 0.6105 0.4969 0.2874
+Ks 0.2000 0.2000 0.2000
+Ns 10
+d 1.0000
+
+newmtl mattress_ticking
+Kd 0.8963 0.8228 0.6724
+Ks 0.2000 0.2000 0.2000
+Ns 20
+d 1.0000
+
+newmtl sheet_fabric
+Kd 0.9301 0.8796 0.7758
+Ks 0.2000 0.2000 0.2000
+Ns 30
+d 1.0000
+
+newmtl comforter_fabric
+Kd 0.5647 0.1651 0.0409
+Ks 0.2000 0.2000 0.2000
+Ns 60
+d 1.0000
+
+newmtl comforter_seam
+Kd 0.2542 0.0497 0.0144
+Ks 0.2000 0.2000 0.2000
+Ns 50
+d 1.0000
+
+newmtl comforter_band
+Kd 0.2122 0.2831 0.1413
+Ks 0.2000 0.2000 0.2000
+Ns 50
+d 1.0000
+
+newmtl blanket_fabric
+Kd 0.2122 0.2831 0.1413
+Ks 0.2000 0.2000 0.2000
+Ns 30
+d 1.0000
+
+newmtl pillow_sage
+Kd 0.1946 0.2542 0.1119
+Ks 0.2000 0.2000 0.2000
+Ns 40
+d 1.0000
+
+newmtl pillow_cream
+Kd 0.8632 0.7682 0.5776
+Ks 0.2000 0.2000 0.2000
+Ns 40
+d 1.0000
+
